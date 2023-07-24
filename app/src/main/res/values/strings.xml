@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Hotel Pardis</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Photos</item>
+        <item>Movies</item>
+        <item>Notifications</item>
+        <item>Settings</item>
+    </string-array>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="roomDesc">این سوئیت های 64 متر مربعی در منطقه تِروی تِریتوری قرار گرفته و دارای یک اتاق خواب، فضای نشیمن مجزا و دو حمام می باشد. این سوئیت ها بسیار لوکس و شیک طراحی شده اند و از شما برای تجربه اقامتی به یاد ماندنی در آنتالیا دعوت می کنند. سوئیت پول مجهز به امکاناتی مانند دسترسی به اینترنت، تلفن، تلویزیون، مینی بار، سیستم تهویه مطبوع هوا، امکانات تهیه چای و قهوه و گاوصندوق می باشد. همچنین برای تمام آنها حمام مجهز به دوش، سشوار و آینه آرایشی بزرگنما در نظر گرفته شده است. از دیگر امکانات این سوئیت ها می توان به گرمکن مخصوص شیر کودکان و تلویزیون ال ای دی با دستگاه پخش دی وی دی اشاره کرد.
+    </string>
+    <string name="content">یکی از بزرگترین ومجلل ترین هتل های کیش هتل داریوش کیش میباشد  که با 160 اتاق با ویوهای متفاوت پذیرای گردشگران تور کیش میباشد . این هتل با سرمایه‌ای معادل ۱۲۵ میلیون دلاردر بهترین منطقه جزیره کیش ساخته شده‌ است.</string>
+
+</resources>
