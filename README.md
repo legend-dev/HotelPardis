@@ -1,6 +1,6 @@
-# Hotel Management Android App - Database Course Project
+# HotelPardis - Database Course Project
 
-Welcome to the Hotel Management Android App repository! This project was developed as part of the Database Course, aimed at implementing a simple hotel management with SQL database.
+Welcome to the HotelPardis Android App repository! This project was developed as part of the Database Course, aimed at implementing a simple hotel management with SQL database.
 
 ## Features
 **User Authentication**: login and registration system for customer and administrators.\
@@ -11,13 +11,14 @@ Welcome to the Hotel Management Android App repository! This project was develop
 ## Installation
 1. Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/your-username/hotel-management-android.git
+git clone https://github.com/ali-mohammadi/HotelPardis.git
 ```
 2. Open the project in Android Studio.
+3. Build the project.
 3. Connect your Android device or use an emulator to run the app.
 
 ## Screenshot
-
+<img src="screenshots/booking.png" width="320px" height="auto">
 
 ## Technologies Used
 - **Java**: The core programming language used for Android app development.
@@ -25,14 +26,9 @@ git clone https://github.com/your-username/hotel-management-android.git
 - **SQLite**: The local database used to store hotel information.
 
 
-## Authors
+## Contributors
 Ali Mohammadi\
 Parsa Vafaie
 
 ## License
 This project is licensed under the MIT License.
-
-## Acknowledgments
-We would like to express our gratitude to our instructor for guiding us throughout the project development. Special thanks to all the contributors and beta testers for their valuable feedback and support.
-
-Feel free to reach out if you have any questions or suggestions. Happy coding!
